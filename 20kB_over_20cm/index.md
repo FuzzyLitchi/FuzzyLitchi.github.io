@@ -15,7 +15,7 @@ $ nc -lvp 1337 > received_data
 $ nc 192.168.0.54 1337 < data_to_send
 # you have to press ^C to quit the transfer on either end. Netcat doesn't do that by itself.
 ```
-This requires being on the same network, knowing the recipient's ip address, both having netcat and probably bash (or some other shell that supports redirecting output to a file). You also need to both be massive nerds. This works well with hackers. It's not encrypted, but the traffic also doesn't go very far. Privacy wise I would say this is better than email. Usually the data isn't stored in some third computer (like the cloud) either, which is nice. It
+This requires being on the same network, knowing the recipient's ip address, both having netcat and probably bash (or some other shell that supports redirecting output to a file). You also need to both be massive nerds. This works well with hackers. It's not encrypted, but the traffic also doesn't go very far. Privacy wise I would say this is better than email. Usually the data isn't stored in some third computer (like the cloud) either, which is nice.
 
 If only one of you is a huge nerd, you can try this.
 ```bash
@@ -33,10 +33,12 @@ All of these have been over IP on some level, and only involved devices that hav
 Things that allegedly would solve this:
 - Airdrop (I only have 1 apple device)
 - Bluetooth (I remember sending small mp3s over bluetooth when I was 10. Why does no one use this feature anymore?)
-- USB drives (I rarely have these on me anymore. They suffer from data being hard to remove from them.)
+- USB drives (I rarely have these on me anymore. They suffer from data being hard to remove from them.[^deletion])
   - One of my friends had this USB drive that had both USB-A and USB-C, which was very neat. Maybe that would be good for phones (except iPhones with lightning cables)
 - (micro)SD cards (same as above)
 
 I can't really evaluate these as I don't fully understand them. But I haven't had success with any of these. I started thinking about the small data over small distance problem after spending over an hour trying to send some key data from one flipper zero to another. It was like 100 bytes or something. If we had a hex editor on each flipper it would've been faster to type them by hand. It would be nice if there was a very commonly implemented way to do this. I'd like to hear how you do send small files small distances! You can post about it [here](https://queer.party/@polly/112631214527004578)
 
 [^open]: It's not open hardware, they don't give you the schematics or boardview files. There's even weird restrictions on some of the peripherals' firmware. So it's only kinda open. Which is why they write open source and not open hardware, I suppose. It depends on if you think the source in open source refers to only source code or like everything they give you.
+[^deletion]: Sometimes I want to transfer sensitive data, like a private key. If I write that on a flash drive, read it on a different machine, and then delete it, I would hope no one else could read the data from the flash drive at a later date. I am under the impression that many of the ways to "delete" the data do not make it irrecoverable, and that it is difficult to truly know if it is irrecoverable. This is kinda "folk wisdom", so maybe it's not true. I couldn't find a good source for this, let me know if you have one! Or one to the contrary!
+
