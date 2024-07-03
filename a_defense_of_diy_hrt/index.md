@@ -16,7 +16,7 @@ Do you know what's in your meds? It's probably written on them. And most of the 
 
 Some people don't even buy it online. If you have trans allies in your life they sometimes have ways to acquire them directly from the official sources. They usually prescribe estradiol for postmenopausal women, so you can just get it from them. Or if you know some doctor who's an ally they can "procure it."
 
-A lot of people have taken the medication bought from the same online sellers and experienced the expected feminizing effects with no adverse effects. Some have subsequently gotten blood tests which show the expected elevated estrogen levels and so on.[^centralization] While writing this I found out that Trans Harm Reduction[^transharmreduction] exists and has done lab tests on various drugs available through these channels and published the result! All of these things put together can give you a high confidence that the drugs you buy aren’t snakeoil and aren’t poison.
+A lot of people have taken the medication bought from the same online sellers and experienced the expected feminizing effects with no adverse effects. Some have subsequently gotten blood tests which show the expected elevated estrogen levels and so on.[^centralization] While writing this I found out that [Trans Harm Reduction](https://transharmreduction.org/) exists and has done lab tests on various drugs available through these channels and published the result! All of these things put together can give you a high confidence that the drugs you buy aren’t snakeoil and aren’t poison.
 
 ### Isn't buying drugs on the internet illegal?!
 1. When the law is unjust, you have a duty to break it.
@@ -48,7 +48,6 @@ It is important to remember that these companies do not own any magic sauce that
 
 [^bloodtests]: Although you *can* still get blood tests! I would recommend to do it. Some people can convince their GPs to get the relevant blood tests and some people pay (sometimes a lot) to get blood tests privately. In Denmark private trans care is illegal, so I can't get it here.
 [^centralization]: This information is not centralized and not easy to find. One of the big problems with diyhrt being on the edges of the law[^criminalized] is that it makes information about it harder to find. It's usually not a good idea to say "I am commiting crimes" but not sharing information makes this more dangerous.
-[^transharmreduction]
 [^criminalized]: I don't know of anyone who's actually been criminalized for doing diyhrt. Telling the clinics here that you are diy'ing hrt can result in nothing or being expelled from their program. I have heard of a trans guy who got in trouble with the police for importing legal testosterone. I’ve talked to a law student who believed importing drugs was probably illegal, but there’s also good reasons to believe it may not be under most circumstances. It’s complicated and I’m not a lawyer.
 [^gendergp]: GenderGP is a private British gender clinic that has shorter wait times than the danish system and is less gatekeepy. They have a bunch of their own problems but this post isn't about them.
 [^maybe]: Maybe
