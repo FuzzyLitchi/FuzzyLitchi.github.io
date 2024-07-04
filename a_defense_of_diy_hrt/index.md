@@ -21,6 +21,7 @@ A lot of people have taken the medication bought from the same online sellers an
 ### Isn't buying drugs on the internet illegal?!
 1. When the law is unjust, you have a duty to break it.
 2. 🤓
+
 It's not obvious that all purchases of hrt drugs are illegal. Testosterone is on the danish doping list, which means that importing it or having it is [illegal](https://www.retsinformation.dk/eli/lta/1999/232) and punishable by fine or up to 2 years in prison. Estradiol is less clear to me, it's just a prescription drug, it has no special legal classification. I remember hearing that some places in the EU they sold estrogen over-the-counter? But I can't seem to find a good source on this.[^okbutfr]
 
 ## You don't know what you're doing
