@@ -9,6 +9,7 @@
 	- Peter Hummelgaard, the Danish justice minister argued that banning E2EE in chats and requiring every chat service to implement surveillance measures was precedented by many platforms (Facebook, twitter) already surveilling you.[^statesurveillance]
 - Ads can be scary for children and triggering for anyone
 - Ads consume bandwidth, and if you're on a data plan, they directly cost you money
+- Ads consume CPU cycles, directly slowing down your device and burning electricity (and potentially battery capacity)
 - If companies can get you to give them money by spending more money on ads instead of spending money on making a better product, they will do it. Make it expensive to advertise and we will have better products.
 - Ads can be used to deliver malware to your browser. This happens regularly.
     - https://arstechnica.com/security/2024/06/mac-info-stealer-malware-distributed-through-google-ads/
