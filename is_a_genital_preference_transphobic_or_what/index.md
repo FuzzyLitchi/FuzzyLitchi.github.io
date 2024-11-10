@@ -1,3 +1,5 @@
+# Is a "genital preference" transphobic or what?
+
 Dr Devon Price wrote a really good article titled "I'm trans, but I have a genital preference. What should I do?"[^devon_price] It takes a very practical approach to dealing with this concept from the perspective of someone who has a genital preference. I would recommend reading the article, it's very good! An anonymous trans guy says "i find myself turned off/repulsed by penises and cum" and Devon answers that it is important to respect your own boundaries, and that even if your preferences and boundaries are informed by the prevailing prejudices of the day you shouldn't force yourself to disregard your feelings. And he is entirely correct in this, obviously. Sex is ultimately about pleasure and enjoyment. Disregarding your own boundaries is unlikely to be pleasurable and likely to hurt everyone involved. But instead of communicating what things repulse you, a better approach would be to communicate the things you desire.
 
 > instead of worrying about whether we desire people in the “right” ways, we can simply communicate which activities are sexually enjoyable to us
