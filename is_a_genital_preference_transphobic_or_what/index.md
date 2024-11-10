@@ -3,6 +3,7 @@
 Dr Devon Price wrote a really good article titled "I'm trans, but I have a genital preference. What should I do?"[^devon_price] It takes a very practical approach to dealing with this concept from the perspective of someone who has a genital preference. I would recommend reading the article, it's very good! An anonymous trans guy says "i find myself turned off/repulsed by penises and cum" and Devon answers that it is important to respect your own boundaries, and that even if your preferences and boundaries are informed by the prevailing prejudices of the day you shouldn't force yourself to disregard your feelings. And he is entirely correct in this, obviously. Sex is ultimately about pleasure and enjoyment. Disregarding your own boundaries is unlikely to be pleasurable and likely to hurt everyone involved. But instead of communicating what things repulse you, a better approach would be to communicate the things you desire.
 
 > instead of worrying about whether we desire people in the “right” ways, we can simply communicate which activities are sexually enjoyable to us
+>
 > — Dr Devon Price
 
 A positive approach to sex, where you communicate what you desire instead of what repulses you is a huge win/win. You get better sex, and the people who's bodies you find repulsive don't have to hear about how your find their bodies repulsive. It solves the problem, but it dodges the question. Is a "genital preference" transphobic or what?
@@ -14,8 +15,11 @@ A 2018 paper titled "Transgender exclusion from the world of dating"[^blair_and_
 The results show two things. There exists an overwhelming transphobic bias against trans people in all sexual demographics and there exists a transmisogynistic bias against trans women among the people who are willing to date trans people.
 
 > Across a sample of heterosexual, lesbian, gay, bisexual, queer, and trans individuals, 87.5% indicated that they would not consider dating a trans person, with cisgender heterosexual men and women being most likely to exclude trans persons from their potential dating pool. 
+>
 > [..]
+>
 > When individuals are willing to consider including trans persons within their pool of prospective dating partners, there appears to be a bias toward including trans men but not trans women, even if doing so is counter to one’s self-identified sexual and/or gender identity.
+>
 > — Karen L. Blair and Rhea Ashley Hoskin
 
 It is critical to understand that concepts such as "are traps gay?" or "having a genital preference" do not exist in a vacuum. They exist within a culture of transphobia and transmisogyny. Asking "are genital preferences transphobic" is in a way the wrong question to approach the topic. Of course sexuality is complex and we must be careful not to overly moralize personal sexual and romantic choices. But we should be asking ourselves, why do these discrepancies exist? Are heterosexuals' lack of interest in trans partners simply an expression of desire? Among those who are interested in trans partners, why does there exist such a bias for trans men over trans women? Why do so many self-identified lesbians extend their sexuality to include trans men, but not trans women?
