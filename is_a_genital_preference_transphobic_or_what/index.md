@@ -57,8 +57,8 @@ In a different post, a lesbian describes how she thought she had a preference, b
 
 I don't expect that we would all be into penis if we did the necessary soul searching, but maybe we could change the way we talk about genitalia to be similar to every other part of people's bodies and our own sexuality. Blue eyes, black hair, penis, a loud personality, small boobs, body hair and shyness could all be characteristics that interest you or don't on an equal footing. We could move away from this phallocentric focus on penis and have a more holistic approach to sexuality, and I think we'd all be better off.
 
-[^devon_price]: https://drdevonprice.substack.com/p/im-trans-but-i-have-a-genital-preference
-[^blair_and_hoskins]: https://sci-hub.se/10.1177/0265407518779139
+[^devon_price]: [https://drdevonprice.substack.com/p/im-trans-but-i-have-a-genital-preference](https://drdevonprice.substack.com/p/im-trans-but-i-have-a-genital-preference)
+[^blair_and_hoskins]: [https://sci-hub.se/10.1177/0265407518779139](https://sci-hub.se/10.1177/0265407518779139)
 [^super_straight]: ["super straight"](https://glaad.org/super-straight-definition-meaning-anti-lgbt-online-hate/) was a sexuality [started](https://www.businessinsider.com/super-straight-flag-meaning-tiktok-superstraight-ss-movement-origin-2021-3) in 2021 on TikTok that is defined as straight people who only date cis people. The label died very quickly and was never widely used.
 [^trans_population]: I'm estimating that 1% of the population is trans and the global population is 8 billion.
 [^outing]: In reality outing yourself as trans to someone who's transphobic and romantically interested in you can be a lot more uncomfortable than that description.
