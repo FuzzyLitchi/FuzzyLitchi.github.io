@@ -15,8 +15,10 @@
     - https://arstechnica.com/security/2024/06/mac-info-stealer-malware-distributed-through-google-ads/
     - I mean ads are literally "pay me money and I will deliver a bundle of html, javascript and images to whomever you want", no shit that gets abused to deliver malware to people.
     - If you don't want to click links by strangers because "what if it goes to malware", WHY ARE YOU LETTING STRANGERS BLAST ADS AT YOUR COMPUTER
+- Governments are using adtech surveillance as part of state surveillance[^locate_x]
 
 Specifically a good adblocker is [ublock origin](https://ublockorigin.com/) on firefox (you can even use it on android)
 
-[^yourattention]: https://www.thejaymo.net/2019/09/14/100-zine-holiday/
-[^statesurveillance]: https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410254, *EU på vej med kontroversiel chatovervågning*, 01:22-10:43
+[^yourattention]: [https://www.thejaymo.net/2019/09/14/100-zine-holiday/](https://www.thejaymo.net/2019/09/14/100-zine-holiday/)
+[^statesurveillance]: [https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410254](https://www.dr.dk/lyd/p1/p1-orientering/p1-orientering-2024/p1-orientering-11802410254), *EU på vej med kontroversiel chatovervågning*, 01:22-10:43
+[^locate_x]: [https://www.404media.co/fyi-a-warrant-isnt-needed-secret-service-says-you-agreed-to-be-tracked-with-location-data/](https://www.404media.co/fyi-a-warrant-isnt-needed-secret-service-says-you-agreed-to-be-tracked-with-location-data/)
