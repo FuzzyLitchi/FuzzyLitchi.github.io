@@ -6,3 +6,5 @@ i'm not the only transfem there. i'm not the loudest transfem there. you can be 
 
 if you don't police amab's gender for fear of them being "one of the enemy", it turns out a lot of them have queerer genders than you might think. and you can learn a lot about gender from us.
 
+i thought it was pretty magical 💖 thanks to everyone who helped make it great
+
