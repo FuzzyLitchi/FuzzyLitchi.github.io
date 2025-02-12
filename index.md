@@ -1,6 +1,7 @@
 # my blog u.u
 
 ## posts
+- [written_warning](written_warning)
 - [transfeminity_at_ccc](transfeminity_at_ccc)
 - [is_a_genital_preference_transphobic_or_what](is_a_genital_preference_transphobic_or_what)
 - [list_of_reasons_you_should_install_an_adblocker](list_of_reasons_you_should_install_an_adblocker)
