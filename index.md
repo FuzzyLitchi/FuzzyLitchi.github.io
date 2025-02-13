@@ -12,5 +12,5 @@ If you go on [the repo](https://github.com/FuzzyLitchi/FuzzyLitchi.github.io) yo
 
 ## socials
 
-I'm on [mastodon](https://queer.party/@polly), if you want to dm me you ask for my signal.
+I'm on [mastodon](https://queer.party/@polly), if you want to dm me you can ask for my signal.
 
