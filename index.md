@@ -14,3 +14,4 @@ If you go on [the repo](https://github.com/FuzzyLitchi/FuzzyLitchi.github.io) yo
 
 I'm on [mastodon](https://queer.party/@polly), if you want to dm me you can ask for my signal.
 
+![88x31](88x31.png)
