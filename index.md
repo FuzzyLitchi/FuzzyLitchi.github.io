@@ -14,4 +14,6 @@ If you go on [the repo](https://github.com/FuzzyLitchi/FuzzyLitchi.github.io) yo
 
 I'm on [mastodon](https://queer.party/@polly), if you want to dm me you can ask for my signal.
 
-![88x31](88x31.png)
+[![blog.polly.computer](88x31/blog.polly.computer.png)](https://blog.polly.computer)
+[![lyra.horse](88x31/lyra.horse.png)](https://lyra.horse)
+[![hexadecimaldinosaur.com](88x31/hexadecimaldinosaur.com.png)](https://hexadecimaldinosaur.com)
