@@ -17,3 +17,4 @@ I'm on [mastodon](https://queer.party/@polly), if you want to dm me you can ask 
 [![blog.polly.computer](88x31/blog.polly.computer.png)](https://blog.polly.computer)
 [![lyra.horse](88x31/lyra.horse.png)](https://lyra.horse)
 [![hexadecimaldinosaur.com](88x31/hexadecimaldinosaur.com.png)](https://hexadecimaldinosaur.com)
+![this site is miku approved](88x31/miku.gif)
