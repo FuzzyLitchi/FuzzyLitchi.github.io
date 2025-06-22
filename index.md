@@ -1,6 +1,7 @@
 # my blog u.u
 
 ## posts
+- [dk_hrt_shopping_list](dk_hrt_shopping_list)
 - [written_warning](written_warning)
 - [transfeminity_at_ccc](transfeminity_at_ccc)
 - [is_a_genital_preference_transphobic_or_what](is_a_genital_preference_transphobic_or_what)
