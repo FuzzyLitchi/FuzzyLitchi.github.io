@@ -6,7 +6,7 @@ But it's not bitter anymore. The meaning of penis is malleable. To me it used to
 
 [^penis_as_violence]: It feels important to me to state that penises are not violent, obviously. Sexual violence is caused by humans and does not require penises. Men do not enact violence because of penises. I see feminists, even self-labeled allies, claim that doing damage to penises or testicles would improve the world somehow. Please stop doing this, you are not an ally to me by threatening genital mutilation or forced surgery on anyone.
 
-[^disgust]: They're also not disgusting. Feeling disgust about parts of natural human body diversity is politically pretty dangerous if you also let that disgust inform your politics. See [[Is a "genital preference" transphobic or what?]]
+[^disgust]: They're also not disgusting. Feeling disgust about parts of natural human body diversity is politically pretty dangerous if you also let that disgust inform your politics. See [Is a "genital preference" transphobic or what?](/is_a_genital_preference_transphobic_or_what)
 
 I wanna reach out to all the trans girls out there who were like me, and I want you to look at the broader patterns. This isn't the first time in history that women have been made to feel shame and disgust about their bodies. Breastfeeding is still seen as "indecent exposure" by some. A visibly transfem body, whatever that means, existing in public should never be shameful, criminal or seen as violent. And I am so sorry that there are places where it is.
 
