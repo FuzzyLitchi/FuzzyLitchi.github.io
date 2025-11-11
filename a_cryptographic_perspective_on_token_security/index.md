@@ -1,3 +1,7 @@
+---
+katex: True
+---
+
 # A cryptographic perspective on token security
 
 There's plenty of criticisms of JWTs[^jwt_issues]. It is well established that they can have security drawbacks if you're using them wrong. Instead of repeating those perspectives here, I will argue that JWTs aren't significantly more secure than basic id tokens. To do this I will loosely define 3 systems for authentication and evaluate how they break for attackers with different capabilities.
